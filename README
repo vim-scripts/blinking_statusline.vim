@@ -1,0 +1,6 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4289
+
+Blinks the status line of the newly focused window whenever you change window, by switching its highlight between 
+StatusLineLit and StatusLineUnLit on WinEnter and CursorHold events.
+
+Can be helpful to visually track which window you have moved to.
